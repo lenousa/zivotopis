@@ -1,0 +1,90 @@
+h1 {
+    color: #b98eb9;
+    text-align: center;  
+    font-size: 90px;
+    margin: 0;
+    text-shadow: 2px 1px 1px;
+    font-family: "Oswald", sant-serif;
+    padding: 60px 0 0 0;
+}
+
+h2 {
+    text-align: left;
+    font-family:"Smooch Sans", sans-serif;
+    text-decoration-line: underline;
+    clear: left;
+    margin: 0px;
+}
+
+.vzdelani,
+.uspechy {
+    background-color: #E6E6FA;  
+}
+
+.foto-vzdelani,
+.foto-uspechy {
+    float: right; 
+    margin: 0px;
+    width: 400px;
+}
+
+.foto-omne {
+    float: left;
+    margin: 0px 0px 100px 0px;
+    width: 300px 
+}
+
+.foto-prace {
+    float: left;
+    margin: 30px 0px 0px 0px;
+    width: 350px;
+}
+
+section {
+    padding: 100px 150px;
+}
+
+.omne {
+    line-height: 2;
+    margin: 0;
+}
+
+.vzdelani {
+    margin-top: 50px;
+}
+
+body {
+    font-family:"Smooch Sans", sans-serif;
+    font-size: 25px;
+    line-height: 25px;
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu {
+    margin: 100px 0px 0px 0px;
+    padding: 0;
+    text-align: center;
+    background-color: #E6E6FA;
+}
+
+.menu a{
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+
+
+
+
+
+

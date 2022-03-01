@@ -1,1 +1,1 @@
-# zivotopis
+Můj životopis jako úkol č. 1 do hodin KODERKY.
